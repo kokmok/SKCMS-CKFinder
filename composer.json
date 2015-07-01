@@ -36,11 +36,11 @@
 
 "autoload": {
 
-"psr-0": { "SKCMS\\Bundle\\CKFinderBundle":   "" }
+"psr-0": { "SKCMS\\CKFinderBundle":   "" }
 
 },
 
-"target-dir": "SKCMS/Bundle/CKFinderBundle",
+"target-dir": "SKCMS/CKFinderBundle",
 
 "minimum-stability":   "dev"
 
